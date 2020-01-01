@@ -1,0 +1,7 @@
+require_relative './actor.rb'
+require_relative './character.rb'
+require_relative './movie.rb'
+require_relative './show.rb'
+require_relative './charactermovie.rb'
+require_relative './charactershow.rb'
+require 'pry'
